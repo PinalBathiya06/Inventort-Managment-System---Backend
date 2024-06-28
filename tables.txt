@@ -1,0 +1,23 @@
+tables 
+
+client/users:
+id
+name
+address
+email
+password
+mobile no
+
+product:
+id
+description
+quantity
+price
+
+invoice:
+id
+client_id
+product_id
+date
+qty
+total
